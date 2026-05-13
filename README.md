@@ -2,6 +2,8 @@
 
 The tutorial system that I've made for my game [Payout - Shop Simulator](https://store.steampowered.com/app/3551680/Payout__Shop_Simulator/)
 
+(Code was written without using AI)
+
 ### 🔹 TutorialManager
 The central controller of all tutorials:
 - Manages the order in which tutorials are executed  
