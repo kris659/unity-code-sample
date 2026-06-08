@@ -2,7 +2,7 @@
 
 The tutorial system that I've made for my game [Payout - Shop Simulator](https://store.steampowered.com/app/3551680/Payout__Shop_Simulator/)
 
-(Code was written without using AI)
+(Code was written without using AI, description below is AI generated)
 
 ### 🔹 TutorialManager
 The central controller of all tutorials:
